@@ -1,0 +1,1 @@
+export const PHOTOS_API="https://jsonplaceholder.typicode.com/photos";
